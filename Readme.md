@@ -1,4 +1,4 @@
-# Some js Boilderplate
+# Some js Boilerplate
 
 ## Readline
 
